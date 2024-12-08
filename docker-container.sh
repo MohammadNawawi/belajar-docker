@@ -1,7 +1,7 @@
-# TODO : Look all docker container in server
+# TODO : Sho all docker container in server
 docker container ls -a
 
-# TODO : Look all active docker container in server
+# TODO : Show all active docker container in server
 docker container ls
 
 # TODO : Create Docker Container
@@ -15,3 +15,9 @@ docker container stop contohredis
 
 # TODO : Delete Docker Container
 docker container rm contohredis
+
+# TODO : Show container log
+docker container logs contohredis
+
+# TODO : Show container log(Realtime)
+docker container logs -f contohredis

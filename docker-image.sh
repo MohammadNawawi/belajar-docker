@@ -1,5 +1,5 @@
 
-# TODO : Look docker image downloaded
+# TODO : Show docker image downloaded
 docker image ls
 
 # TODO : Download docker image
